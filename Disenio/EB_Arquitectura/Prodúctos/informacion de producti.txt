@@ -1,0 +1,4 @@
+Hog dog sensillo
+Pan, salchicha y verdura.
+Stock : 20
+Precio: $15
